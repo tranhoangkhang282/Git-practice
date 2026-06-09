@@ -9,3 +9,10 @@
 7 git remote add {link} de ket noi repo tren github
 8 git branch -M main
 9 git push -u main
+
+10 type (scope): subject
+
+type: 
+feat: them tinh nang moi
+fix: sua loi
+refactor: tai cau truc lai ma nguon
