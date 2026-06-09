@@ -6,4 +6,6 @@
 5 git add git-theory.txt
 6 git commit -m ""
 
-
+7 git remote add {link} de ket noi repo tren github
+8 git branch -M main
+9 git push -u main
